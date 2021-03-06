@@ -1,8 +1,10 @@
 # NTFS as rootfs
 
-Install Linux on an NTFS partition.
+Install Linux to an NTFS partition.
 
 This guide focus on partition installtion. For directory installation, [Nikola Pavlica’s guide](https://github.com/nikp123/ntfs-rootfs) may help.
+
+![Screenshot: Manjaro installed to NTFS](manjaro-on-ntfs.png)
 
 ## How NTFS is different from native file systems
 
